@@ -38,19 +38,6 @@ Our project aims to develop a **machine learning–based system** that proactive
 - Identify key contributing factors (weather, traffic density, road type, etc.)  
 - Provide insights for proactive road safety planning  
 
----
-
-## 📂 Project Structure
-.
-├── data/ # Datasets (raw + cleaned)
-├── notebooks/ # Jupyter notebooks for experiments
-├── src/ # Core ML code
-├── models/ # Saved trained models
-├── results/ # Evaluation metrics + visualizations
-├── README.md # Project overview
-
-yaml
-Copy code
 
 ---
 
